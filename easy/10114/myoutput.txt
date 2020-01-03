@@ -1,0 +1,24 @@
+month 0: Car value=13950.000000 owed_amount=15000.000000 rate=0.100000
+month 1: Car value=13531.500000 owed_amount=14500.000000 rate=0.030000
+month 2: Car value=13125.555000 owed_amount=14000.000000 rate=0.030000
+month 3: Car value=13099.303890 owed_amount=13500.000000 rate=0.002000
+month 4: Car value=13073.105282 owed_amount=13000.000000 rate=0.002000
+4 months
+month 0: Car value=9974.990500 owed_amount=9999.990000 rate=0.050000
+month 1: Car value=9476.240975 owed_amount=9499.990000 rate=0.050000
+month 2: Car value=8528.616877 owed_amount=8999.990000 rate=0.100000
+month 3: Car value=7675.755190 owed_amount=8499.990000 rate=0.100000
+month 4: Car value=6908.179671 owed_amount=7999.990000 rate=0.100000
+month 5: Car value=6217.361704 owed_amount=7499.990000 rate=0.100000
+month 6: Car value=5595.625533 owed_amount=6999.990000 rate=0.100000
+month 7: Car value=5036.062980 owed_amount=6499.990000 rate=0.100000
+month 8: Car value=4532.456682 owed_amount=5999.990000 rate=0.100000
+month 9: Car value=4079.211014 owed_amount=5499.990000 rate=0.100000
+month 10: Car value=3671.289912 owed_amount=4999.990000 rate=0.100000
+month 11: Car value=3304.160921 owed_amount=4499.990000 rate=0.100000
+month 0: Car value=25920.000000 owed_amount=30000.000000 rate=0.200000
+month 1: Car value=24624.000000 owed_amount=27600.000000 rate=0.050000
+month 2: Car value=23392.800000 owed_amount=25200.000000 rate=0.050000
+month 3: Car value=22223.160000 owed_amount=22800.000000 rate=0.050000
+month 4: Car value=21112.002000 owed_amount=20400.000000 rate=0.050000
+4 months
