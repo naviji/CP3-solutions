@@ -1,0 +1,24 @@
+Cards are: KS QS TH 8H 4H AC QC TC 5C KD QD JD 8D 
+S has 2 cards
+H has 3 cards
+D has 4 cards
+C has 4 cards
+BID D
+Cards are: AC 3C 4C AS 7S 4S AD TD 7D 5D AH 7H 5H 
+BID NO-TRUMP
+Cards are: KS QS TH 8H 4H AC QC TC 5C KD QD JD 8D 
+S has 2 cards
+H has 3 cards
+D has 4 cards
+C has 4 cards
+BID D
+Cards are: KS QS TH 8H 4H AC QC TC 5C KD QD JD 8D 
+S has 2 cards
+H has 3 cards
+D has 4 cards
+C has 4 cards
+BID D
+Cards are: AC 3C 4C AS 7S 4S AD TD 7D 5D AH 7H 5H 
+BID NO-TRUMP
+Cards are: AC 3C 4C AS 7S 4S AD TD 7D 5D AH 7H 5H 
+BID NO-TRUMP
